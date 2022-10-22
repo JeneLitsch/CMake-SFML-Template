@@ -1,1 +1,1 @@
-./bin/app
+./build/bin/app
